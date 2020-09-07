@@ -1,0 +1,10 @@
+.AppBar {
+  padding: 20px 0;
+  box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.2);
+  margin-bottom: 70px;
+}
+.AppBar > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

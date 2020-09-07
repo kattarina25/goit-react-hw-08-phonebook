@@ -1,0 +1,11 @@
+.UserMenu {
+  display: flex;
+  align-items: center;
+}
+.UserMenu span {
+  padding: 0 10px;
+}
+.Avatar {
+  border-radius: 50%;
+  object-fit: cover;
+}
